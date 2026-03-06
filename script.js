@@ -22,6 +22,12 @@ class WebDAW {
         this.pdfScale = 1.5;
 
         this.trackConfigs = [
+            { name: 'Violino', file: 'audio/Violino.mp3', color: 'rgb(255, 0, 0)' },
+            { name: 'Flauta 1', file: 'audio/Flauta 1.mp3', color: 'rgb(60, 0, 95)' },
+            { name: 'Flauta 2', file: 'audio/Flauta 2.mp3', color: 'rgb(2, 44, 68)' },
+            { name: 'Clarineta', file: 'audio/Clarineta.mp3', color: 'rgb(133, 0, 82)' },
+            { name: 'Cello', file: 'audio/Cello.mp3', color: 'rgb(255, 154, 154)' },
+            { name: 'Contrabaixo', file: 'audio/Contrabaixo.mp3', color: 'rgb(227, 234, 255)' },
             { name: 'Guitarra solo', file: 'audio/Guitarra solo.mp3', color: '#ea00ffff' },
             { name: 'Guitarra base', file: 'audio/Guitarra base.mp3', color: '#fbff00ff' },
             { name: 'Baixo', file: 'audio/Baixo.mp3', color: '#09ff00ff' },
